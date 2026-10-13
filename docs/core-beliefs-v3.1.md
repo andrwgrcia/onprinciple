@@ -1,10 +1,12 @@
 # ON PRINCIPLE
 ## Core Beliefs
-### Version 3 — April 2026
+### Version 3.1 — April 23, 2026
 
 *The value framework by which laws, policies, and political conduct are evaluated*
 
 These seventeen beliefs form the value system applied consistently to all laws, policies, political actions, and public conduct — regardless of which party or individual is being evaluated. They are universal principles, not partisan positions. Where they conflict with current law or constitutional interpretation, that conflict is acknowledged honestly and labeled as a position rather than settled fact.
+
+Beliefs 1–2 establish the philosophical foundation. Beliefs 3–6 define how government must operate. Beliefs 7–13 define the fiscal and economic framework. Beliefs 14–16 define individual liberties. Belief 17 addresses democratic accountability.
 
 ---
 
@@ -44,9 +46,9 @@ Elected officials hold public money in trust. They did not earn it, they do not 
 
 ### Belief 5 — Constitutional Authority and the Limits of Jurisdictional Overreach
 
-The relationship between the federal government and the states is defined by the Constitution. The relationship between states and their localities is defined by each state's own constitution. That architecture is the starting point for every question of governmental authority — not a preference to be weighed against desired outcomes, but a structure to be respected before any level of government reaches for a regulatory tool. The first question is always whether the authority to act exists, not whether the intended result is desirable.
+The relationship between the federal government and the states is defined by the Constitution. The relationship between states and their localities is defined by each state’s own constitution. That architecture is the starting point for every question of governmental authority — not a preference to be weighed against desired outcomes, but a structure to be respected before any level of government reaches for a regulatory tool. The first question is always whether the authority to act exists, not whether the intended result is desirable.
 
-Decisions belong at the level of government closest to the people affected and capable of addressing the problem effectively. Federal action is warranted when a problem is genuinely interstate in scope, when state-level responses produce demonstrable cross-border harm, or when a constitutional right is directly at stake. It is not warranted simply because a political outcome at the state level is unsatisfying to those who lost the argument there.
+Decisions belong at the level of government closest to the people affected and capable of addressing the problem effectively. Federal action is warranted when a problem is genuinely interstate in scope, when state-level responses produce demonstrable cross-border harm, or when a state systematically denies the fundamental rights defined in Belief 2 — including equal standing before the law and equal participation in civic and economic life. That is precisely the circumstance Belief 2 identifies as justifying intervention. It is not warranted simply because a political outcome at the state level is unsatisfying to those who lost the argument there.
 
 Federal action that eliminates meaningful variation between states does more than overstep constitutional bounds — it destroys the mechanism by which individuals exercise self-determination at scale. People choose where to live. That choice is meaningful. It is a form of consent to the rules of a community, and one of the most fundamental expressions of individual agency available in a continental democracy. The federal government should not be used as a tool to make that choice meaningless.
 
@@ -130,7 +132,9 @@ Free markets, properly regulated to prevent fraud and abuse, allocate resources 
 
 ### Belief 14 — The First Amendment Is Non-Negotiable
 
-Free speech, free press, free assembly, and free exercise of religion are not privileges granted by government — they are the foundational liberties that make self-governance possible. The First Amendment has no asterisks. That means defending speech we disagree with, protecting religious expression we don't share, and opposing the tendency to treat dissenting viewpoints as inherently dangerous. The answer to speech you find objectionable is more speech, not suppression. A government or institutional culture that decides which ideas are permissible has stopped being a guardian of liberty and started being its enemy.
+Free speech, free press, free assembly, and free exercise of religion are not privileges granted by government — they are the foundational liberties that make self-governance possible. These are among the fundamental rights recognized in Belief 2 — not created by government, not subject to majority vote, and not negotiable against competing preferences. Belief 14 is their specific application.
+
+The First Amendment has no asterisks. That means defending speech we disagree with, protecting religious expression we don’t share, and opposing the tendency to treat dissenting viewpoints as inherently dangerous. The answer to speech you find objectionable is more speech, not suppression. A government or institutional culture that decides which ideas are permissible has stopped being a guardian of liberty and started being its enemy.
 
 Just as citizens are free to practice religion, government is not free to impose it. Religious self-determination belongs to the individual. It is not a legitimate instrument of the state.
 
@@ -150,9 +154,9 @@ Adults who are capable of participating in society — who hold the right to vot
 
 ### Belief 17 — Money Is Not Speech — Democratic Accountability Requires Transparency
 
-Democratic accountability requires that political expression be attributed and that money not substitute for it. An individual, corporation, or union that states a political position publicly — in print, in speech, in advertisement — is engaged in protected expression provided that expression is attributed. The undisclosed transfer of money to influence political outcomes is not speech. It is the corruption of democratic processes by institutional wealth, and it has been recognized as such since the founding era's warnings against faction.
+Democratic accountability requires that political expression be attributed and that money not substitute for it. An individual, corporation, or union that states a political position publicly — in print, in speech, in advertisement — is engaged in protected expression, provided the speaker is disclosed. Attribution is necessary but not sufficient. Contribution limits are not a restriction on expression — they are a structural safeguard against the conversion of institutional wealth into political outcomes regardless of whether that conversion is disclosed. The undisclosed transfer of money to influence political outcomes is not speech. It is the corruption of democratic processes by institutional wealth, and it has been recognized as such since the founding era’s warnings against faction.
 
-Contribution limits are not a restriction on expression — they are a structural safeguard against the conversion of institutional wealth into political outcomes. The current constitutional framework, shaped by Citizens United v. FEC, rejects that safeguard by equating unlimited independent expenditure with protected speech. We believe the Court got it wrong. We say so plainly because intellectual honesty requires it.
+The current constitutional framework, shaped by Citizens United v. FEC, rejects that safeguard by equating unlimited independent expenditure with protected speech. We believe the Court got it wrong. We say so plainly because intellectual honesty requires it.
 
 This principle applies symmetrically. Corporate dark money and public sector union political spending are the same problem in different clothing. Public sector unions present a particular structural conflict: they bargain against elected officials whom their contributions helped elect, while the taxpayer — the party actually obligated to fund the result — sits outside the room. The standard is consistent: transparent attributed expression, yes. Institutional money purchasing political outcomes without public visibility, no — regardless of which institution and regardless of which party benefits.
 
@@ -160,5 +164,5 @@ This principle applies symmetrically. Corporate dark money and public sector uni
 
 *This is a living document and will evolve over time.*
 
-*Current version: 3 — April 2026*
-*Canonical location: github.com/andrwgrcia/onprinciple*›
+*Current version: 3.1 — April 23, 2026*
+*Canonical location: github.com/andrwgrcia/onprinciple*

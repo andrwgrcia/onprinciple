@@ -1,0 +1,5 @@
+.drive_upload/
+.drive_upload_*.json
+drive_*.json
+c*_p*.txt
+ins*_p*.json
